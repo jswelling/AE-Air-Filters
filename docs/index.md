@@ -5,7 +5,11 @@
 The goal here is to minimize the risk of COVID transmission at indoor
 events in AEthelmearc, while hopefully allowing as many people as
 possible to attend the events without masks.  Inexpensive air filter
-boxes are believed to reduce transmission risk.
+boxes are believed to reduce transmission risk.  We can never make indoor
+events as covid-safe as outdoor events where the air is replaced with
+fresh every few seconds, but using air filters can greatly reduce the
+air replacement time.  As usual, the safest option is belt _and_ suspenders-
+use filters in your indoor event site _and_ encourage attendees to wear masks.
 
 ## Some Relevant Links
 * [DIY box fan filters - Corsi-Rosenthal box](https://cleanaircrew.org/box-fan-filters/) - This is the biggest, richest source and includes full instructions.
@@ -17,15 +21,15 @@ boxes are believed to reduce transmission risk.
 Full instructions for building these air filter boxes can be found at
 [DIY box fan filters - Corsi-Rosenthal box](https://cleanaircrew.org/box-fan-filters/).
 We are doing our planning based on single-fan, single-filter versions
-of the Corsi-Rosenthal box like [this](images/one_filter_one_fan.jpg).
+of the Corsi-Rosenthal box like [this one](images/one_filter_one_fan.jpg).
 We chose this design because it seems to be most efficient in terms of clean air per dollar,
 and because it doesn't have to be broken down for transportation between sites.
 Try to use a 2-inch-thick MERV-13 or MERV-14 filter with this design for best results.
-One filter box of this type can provide approximately 5 air changes per minute for a 20'x20'
+One filter box of this type can provide approximately 5 air changes per hour for a 20'x20'
 room with 8' ceilings.
 
 If you have already made filter boxes with a different design,
-_you don't have to change them!_ A filter box in the 'classic'
+_you don't have to change them_. A filter box in the 'classic'
 Corsi-Rosenthal design made with one fan and 4 filters apparently puts
 out only about 25% more air than the single filter version.  That
 means you can use fewer of them to get the needed air filtration for
