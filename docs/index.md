@@ -3,8 +3,8 @@
 # Overview
 
 The goal here is to minimize the risk of COVID transmission at indoor
-events in AEthelmearc, while hopefully allowing as many people as
-possible to attend the events without masks.  Inexpensive air filter
+events in AEthelmearc, while hopefully allowing as many activities
+as possible without masks.  Inexpensive air filter
 boxes are believed to reduce transmission risk.  We can never make indoor
 events as covid-safe as outdoor events where the air is replaced with
 fresh every few seconds, but using air filters can greatly reduce the
@@ -14,6 +14,7 @@ use filters in your indoor event site _and_ encourage attendees to wear masks.
 ## Some Relevant Links
 * [DIY box fan filters - Corsi-Rosenthal box](https://cleanaircrew.org/box-fan-filters/) - This is the biggest, richest source and includes full instructions.
 * [Can 10x cheaper lower-efficiency particulate air filters and box fans complement High-Efficiency Particulate Air  (HEPA) purifiers to help control the COVID-19 pandemic? (medRxiv)](https://www.medrxiv.org/content/10.1101/2021.12.04.21267300v8) - An actual research paper with good tabular data on many configurations.
+* [Airborne transmission of respiratory viruses](https://www.science.org/doi/10.1126/science.abd9149) - A long technical paper covering many aspects of virus transmission.
 * [ASHRAE Recommended Air Changes Per Hour](https://smartairfilters.com/en/blog/ashrae-air-changes-per-hour-office-residential/) - Information on the number of air changes per hour recommended for various environments.
 
 ## Making Filters
@@ -43,3 +44,4 @@ We've learned that COVID is not generally spread by contact with surfaces, and t
 to the filter boxes.  The easiest way to transport the single-filter units is just to put
 them in a 30 gallon trash bag and put it in your car.  For planning purposes, one of those
 units is about 20"x21"x7".
+
