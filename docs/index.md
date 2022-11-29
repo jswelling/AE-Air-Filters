@@ -45,3 +45,18 @@ to the filter boxes.  The easiest way to transport the single-filter units is ju
 them in a 30 gallon trash bag and put it in your car.  For planning purposes, one of those
 units is about 20"x21"x7".
 
+## Filter Placement
+
+Obviously if you place a single-filter unit so that either the filter or the fan is against
+a wall, you'll restrict the airflow and defeat the purpose of the filter.  The same thing
+can happen to a lesser degree if the filter or the fan is too close to a wall.  Please place
+filter boxes so that the face of the filter and the fan are both at least 10" from a wall.
+It's fine to put the side of a single-filter unit against the wall as long as both the input and
+the output sides have good clearance.
+
+Likewise, if you use one of the cube-shaped 4-filter units, please do not put it under a table.  We believe
+that you'll end up creating a pocket of lovely highly filtered air underneath the table while
+the rest of the room air is not filtered.
+
+Our calculations assume that the fans are set to 'low', because at higher settings the noise level can
+become a problem.  
